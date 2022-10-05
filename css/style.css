@@ -24,6 +24,7 @@ body {
   color: #6c757d;
   text-align: left;
   background-color: #ffffff;
+  scroll-behavior: smooth;
 }
  
 
